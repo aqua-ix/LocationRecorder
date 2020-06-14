@@ -1,0 +1,2 @@
+rootProject.name='LocationRecorder'
+include ':app'
